@@ -41,3 +41,7 @@ npm run start
 ```
 
 This will open your Little Calendar as a desktop application powered by Electron.
+
+Here's how it looks like
+
+<img width="326" height="340" alt="Screenshot 2026-05-03 at 6 52 38 PM" src="https://github.com/user-attachments/assets/9dca831d-8eca-4ca7-b677-c2394a09b6c0" />
