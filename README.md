@@ -20,7 +20,7 @@ A simple desktop calendar app built with HTML, CSS, JavaScript, and ElectronJS.
 ### 1. Clone This Repo
 
 ```
-git clone 
+git clone https://github.com/harshithapudota/Electron-Calendar.git
 cd Electron-Calendar
 ```
 
